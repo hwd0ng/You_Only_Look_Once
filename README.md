@@ -40,4 +40,4 @@
 
 YOLO 논문은 발표 이후 컴퓨터 비전 분야에서 큰 주목을 받았으며, 이후 많은 후속 연구와 개선된 버전들이 나오게 되는 계기가 되었습니다.
 
-#### [▶︎ PPT 보러가기](https://github.com/hwd0ng/Attention_is_All_you_need/blob/main/Transformer%20%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB.pdf)
+#### [▶︎ PPT 보러가기](https://github.com/hwd0ng/You_Only_Look_Once/blob/main/YOLO_v1%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD.pdf)
